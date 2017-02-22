@@ -1,8 +1,5 @@
 /*
  Developer: Trejo, Eduardo
- ID: 6787
- Course: CST 238
- Assignment: hw06
  Date: 2014-03-30
  Abstract: This part of the project contains the Node class. It uses friend so the NodeStack can access it's private members. 
 		   It Sets a default constructor.

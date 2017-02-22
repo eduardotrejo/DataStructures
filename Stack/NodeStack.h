@@ -1,8 +1,5 @@
 /*
  Developer: Trejo, Eduardo
- ID: 6787
- Course: CST 238
- Assignment: hw06
  Date: 2014-03-30
  Abstract: This part of the program contains the NodeStack class. It contains the default constructor, contructor that initializes the top element,
 		   a show function, a peek function, a pop function, a getCount function, and a clear function. 

@@ -1,8 +1,5 @@
 /*
  Developer: Trejo, Eduardo
- ID: 6787
- Course: CST 238
- Assignment: hw05
  Date: 2014-03-23
  Abstract: This program constructs a linked list using the method of a C++ Class implementation of List.
 		   Uses Node.h and NodeList.h.

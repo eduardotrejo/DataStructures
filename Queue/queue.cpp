@@ -1,8 +1,5 @@
 /*
  Developer: Trejo, Eduardo
- ID: 6787
- Course: CST 238
- Assignment: hw07
  Date: 2014-04-07
  Abstract: This program consist of a Class Implementation of a Queue. It contains a Node.h and a Queue.h class. All functions available in Queue.h.
  */

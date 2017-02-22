@@ -1,8 +1,5 @@
 /*
  Developer: Trejo, Eduardo
- ID: 6787
- Course: CST 238
- Assignment: hw09
  Date: 2014-05-05
  Abstract: This program consists of a Node.h and Tree.h part of the program includes the Tree.h file, that runs all
 		   the functions for the program. It creates a new Tree pointer.

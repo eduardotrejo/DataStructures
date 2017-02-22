@@ -1,8 +1,5 @@
 /*
  Developer: Trejo, Eduardo
- ID: 6787
- Course: CST 238
- Assignment: hw06
  Date: 2014-03-30
  Abstract: This program consist of a Class Implementation of a Stack. It contains a Node.h and a NodeStack.h class respectively. All functions available in NodeStack.h.
  */

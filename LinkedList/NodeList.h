@@ -1,8 +1,5 @@
 /*
  Developer: Trejo, Eduardo
- ID: 6787
- Course: CST 238
- Assignment: hw05
  Date: 2014-03-23
  Abstract: This program constructs a NodeList class by using the Node class.
  */

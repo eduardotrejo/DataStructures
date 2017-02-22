@@ -1,8 +1,5 @@
 /*
  Developer: Trejo, Eduardo
- ID: 6787
- Course: CST 238
- Assignment: hw07
  Date: 2014-04-07
  Abstract: This part of the program contains the private elements; int value and Node *next pointer. It uses friend class so Queue.h has 
 		   access to the private variables.

@@ -1,8 +1,5 @@
 /*
  Developer: Trejo, Eduardo
- ID: 6787
- Course: CST 238
- Assignment: hw09
  Date: 2014-05-05
  Abstract: This part of the program includes Node.h. It creates a Node *root pointer, Node *CreateLeaf function which is called
 		   to add a new element. Other functions that are included are a bool exists, inorder, preorder, and postorder functions.

@@ -1,8 +1,5 @@
 /*
  Developer: Trejo, Eduardo
- ID: 6787
- Course: CST 238
- Assignment: hw07
  Date: 2014-04-07
  Abstract: This part of the program contains the Queue class. It contains the functions: show, enqueue, peek, dequeue, clear, and getCount. 
 		   It also sets up the default constructor, the Node *front and Node *back pointer.

@@ -1,5 +1,5 @@
 /*
- Developer: Trejo, Eduardo09
+ Developer: Trejo, Eduardo
  Date: 2014-05-05
  Abstract: This part of the program contains the private elements; int value, Node *left, and Node *right pointer. It uses friend
 		   class so Tree.h has access to the private variables.
